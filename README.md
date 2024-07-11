@@ -1,16 +1,4 @@
-# sec_ass
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="248" alt="second" src="https://github.com/uwimbabazi123456/assign_2/assets/175347976/e9d752a4-a4b6-4189-93a4-5566bc0a4420">
+<img width="230" alt="seco" src="https://github.com/uwimbabazi123456/assign_2/assets/175347976/0cc3e240-d691-41bf-b3e9-5874e998dcd3">
+<img width="238" alt="sec_assi" src="https://github.com/uwimbabazi123456/assign_2/assets/175347976/1ec7f8d4-15de-4933-b84d-abb6a93315e6">
+My first email was suspended
